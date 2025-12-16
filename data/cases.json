@@ -1,0 +1,523 @@
+{
+  "192.168.10.136": [
+    {
+      "case_id": "a69d0c1c-f648-4e74-858e-3c0db1eefa38",
+      "status": "closed",
+      "alerts": [],
+      "created_at": "2025-12-09T15:47:34.598414",
+      "closed_at": "2025-12-09T15:48:40.684117"
+    },
+    {
+      "case_id": "548bc4ce-2722-4f38-8a70-0cd13282d5bd",
+      "status": "closed",
+      "alerts": [
+        "a3df360e2c1005985e432a9c6069099a853abfdc1d5599762f0109a404660b0b"
+      ],
+      "created_at": "2025-12-09T15:49:34.770620",
+      "closed_at": "2025-12-09T15:51:15.895812"
+    },
+    {
+      "case_id": "e7182371-4a05-470e-9294-36f58e6b1045",
+      "status": "closed",
+      "alerts": [
+        "e223efff9013084cfa23fa9b225e5ae1faeddb6cd211fd806eac1673dcfd8ab3",
+        "8587fd977b83771e796236962db78eb7f6ab001bbe3679c1bd021d01f826b2b4"
+      ],
+      "created_at": "2025-12-09T16:32:34.580875",
+      "closed_at": "2025-12-09T16:35:35.853924"
+    },
+    {
+      "case_id": "ffd222c4-3b21-4df9-9053-fd9417ddb2b5",
+      "status": "closed",
+      "alerts": [
+        "a1afeaa7c3ac64a13fcf2f857e904dac0179f4e27e52bb361feda1e7c57eb098",
+        "8587fd977b83771e796236962db78eb7f6ab001bbe3679c1bd021d01f826b2b4"
+      ],
+      "created_at": "2025-12-09T16:36:40.979842",
+      "closed_at": "2025-12-09T16:45:16.822490"
+    },
+    {
+      "case_id": "b3c0d69a-de48-4b8b-b811-3e79f5f0d228",
+      "status": "closed",
+      "alerts": [],
+      "created_at": "2025-12-09T16:46:36.967356",
+      "closed_at": "2025-12-09T16:49:00.204448"
+    },
+    {
+      "case_id": "26f2bd09-e7ca-459f-9048-27ed579b6a5b",
+      "status": "closed",
+      "alerts": [
+        "1ce3611c662e7ac0e897b13b8dbae9a39f6279f9acbab8327432d721d16ba82c"
+      ],
+      "created_at": "2025-12-09T16:49:37.279594",
+      "closed_at": "2025-12-09T16:52:10.431287"
+    },
+    {
+      "case_id": "d1fc37eb-1165-42bb-b30c-a7ca4688e15f",
+      "status": "closed",
+      "alerts": [],
+      "created_at": "2025-12-09T16:52:37.463351",
+      "closed_at": "2025-12-09T16:53:55.533429"
+    },
+    {
+      "case_id": "c6397d08-0722-41b3-8fca-c3901ad08025",
+      "status": "closed",
+      "alerts": [
+        "52ff4794cc2a61d5cf3072c8b526e108403d9ab134dbae783618a7654d264f28",
+        "18ee18b9e70ed2e0a1ef0fdba6cc1a027b663cececd98c45d433b89cbb7d7c01"
+      ],
+      "created_at": "2025-12-09T16:56:37.652529",
+      "closed_at": "2025-12-09T17:34:42.943876"
+    },
+    {
+      "case_id": "94851b77-13b1-4501-b900-43ebca9ba2e0",
+      "status": "closed",
+      "alerts": [
+        "78608eb8f25f6682e79bc141f5bd858d1e18ae1b301522fa0d4add3431ba54e8"
+      ],
+      "created_at": "2025-12-09T17:46:46.398117",
+      "closed_at": "2025-12-09T18:10:33.435459"
+    },
+    {
+      "case_id": "6715609f-78d4-4450-a145-63e83b3155ad",
+      "status": "closed",
+      "alerts": [
+        "84d94dd496dae0b41687240beb694e55ee69d5dc1a0f89321dd05ccff287ac1b",
+        "93220373abe475d8e772414bd728e3d996677729f7df4c5a040c5cc9a82e72e8",
+        "3bee81682b7aed0726f47f67d47459f2d57923860c1628e0b838bd9c0964b6da",
+        "d9469e8398a50b2af23fa1b916e7a23e89c39471d22a3fef9edabede3091eab3",
+        "ee317b478c78ead8de37ff8f96fa8a7a7e539a70258fa304ac574272c184b18b",
+        "bc0e7b48c3ff056ceb9374867803aedffcf81fea4a870e3cded4b510325561d3",
+        "7aeca463aaa7166f22de4e5cefbae0bc12498b00ffcef87d479e204fcd596bed",
+        "4ea7b9078873b265f5dc554f3d25ba39d8c9a1a6e348e4d308364c9055af9eec",
+        "6f0596e8f73a35eb398f1add262daf770b22da1c72e7ef473044febc38209b56",
+        "200d2520b085082e1affbf7a4ff7c9bbd4ac35f82f466867be3219b135a32da6",
+        "7fdf6a5424935eda5ecbe881a36f038f18f3ba287b86f4a0183e452e4412e360",
+        "a1426831626ef7ce2d3dfa8f50f6fa3191b23a7abf881cc5044d8c1e08cd27ab",
+        "469894e4f7daf751a9e0097ed1dd01a8f9a68d5051e2558b6286eced002bef2a"
+      ],
+      "created_at": "2025-12-09T18:14:45.895991",
+      "closed_at": "2025-12-09T19:22:32.564569"
+    },
+    {
+      "case_id": "d8acb811-ec00-49a2-a27e-1d1bf15ad5da",
+      "status": "closed",
+      "alerts": [
+        "cf420e36b8a0cfa7f4b825333f85f56fbe3893ef66c3b6d69ddcaeb63698256d",
+        "e6c5f5a0a37258f39d8d598f099ba1eb8ad7f5eb154dfbffd2cefdd3e70bb99d"
+      ],
+      "created_at": "2025-12-09T19:23:47.788736",
+      "closed_at": "2025-12-10T06:04:31.723676"
+    },
+    {
+      "case_id": "32d7d96f-86f7-4ed6-a1ba-395efb6fb0b8",
+      "status": "closed",
+      "alerts": [
+        "58098ad5c0fec41e05c2aee5866aae470792b165cffa05643563e4d40a552ca5"
+      ],
+      "created_at": "2025-12-10T06:10:26.270721",
+      "closed_at": "2025-12-10T08:57:55.226966"
+    },
+    {
+      "case_id": "2184319f-f6e1-43a3-b7b2-b91b27312e5f",
+      "status": "closed",
+      "alerts": [
+        "d9827a423f9220c27174546ecce4565e7db6b565d7d8648d3c91a6e9ee3e788e"
+      ],
+      "created_at": "2025-12-10T10:24:27.323391",
+      "closed_at": "2025-12-10T10:45:45.152341"
+    },
+    {
+      "case_id": "6bb127b3-a0b6-40d7-9358-c008c4347f9c",
+      "status": "closed",
+      "alerts": [
+        "66b7a3689865c1c2a507be9917bdeb99820eb9e4b46824f48608e7b04c446555"
+      ],
+      "created_at": "2025-12-10T11:08:27.175429",
+      "closed_at": "2025-12-10T11:11:29.424017"
+    },
+    {
+      "case_id": "bc2bf960-8e12-4f88-80e9-b18b3a0e60fb",
+      "status": "closed",
+      "alerts": [
+        "2328b4ff38758a987629fdc9dccb71d8bd0a4496cbaddc997f2b4418da84f124"
+      ],
+      "created_at": "2025-12-10T11:20:26.203194",
+      "closed_at": "2025-12-10T11:20:55.229242"
+    },
+    {
+      "case_id": "5c53283b-a957-41fc-96d3-f32f1920d36e",
+      "status": "closed",
+      "alerts": [
+        "86208662da1226c45a0d08ae510c9f3745281ad7093a19bcf89d3be6cbfd03be"
+      ],
+      "created_at": "2025-12-10T11:39:27.008178",
+      "closed_at": "2025-12-10T11:44:21.333318"
+    },
+    {
+      "case_id": "dd096afa-89f1-436c-980c-1898889cbec8",
+      "status": "closed",
+      "alerts": [
+        "68cad2a8e4f04ec57bd38ae09d15b4c0e4f8e43ba5f6c852870dc8d517dcf47a"
+      ],
+      "created_at": "2025-12-10T11:50:26.882576",
+      "closed_at": "2025-12-10T11:52:43.045982"
+    },
+    {
+      "case_id": "4001c037-01f3-48f3-81b0-f159da5fbb36",
+      "status": "closed",
+      "alerts": [
+        "e550d74f924a2c1854602d864763fb23bc5c55ff795bf7081376b21c350a33b4",
+        "99f664891154f2b3667851f1a539d60a4b10a2cac3ed67e5ed81fb31a9571c0d"
+      ],
+      "created_at": "2025-12-10T12:07:26.233483",
+      "closed_at": "2025-12-10T15:13:43.584010"
+    },
+    {
+      "case_id": "a5d77ecf-ef48-4a9d-95b4-b9e6296eae18",
+      "status": "closed",
+      "alerts": [],
+      "created_at": "2025-12-10T15:15:15.682675",
+      "closed_at": "2025-12-10T15:22:28.580942"
+    },
+    {
+      "case_id": "55015df4-f657-4f6b-ae29-b451e2e019bc",
+      "status": "closed",
+      "alerts": [
+        "66f2028577e1ca610436d540709da0f9c83f8bdfc05b5a112f5f4717e7a99e6c"
+      ],
+      "created_at": "2025-12-10T15:23:15.706490",
+      "closed_at": "2025-12-10T15:26:47.392563"
+    },
+    {
+      "case_id": "e0eba1b5-395b-4bde-917c-3175d7d3451e",
+      "status": "closed",
+      "alerts": [],
+      "created_at": "2025-12-10T15:28:15.627927",
+      "closed_at": "2025-12-10T17:30:59.326514"
+    },
+    {
+      "case_id": "8c264579-98cd-41a8-b57d-56d04f31b4ff",
+      "status": "closed",
+      "alerts": [
+        "615c175b5359a5dc6669437e898ebebf80f6b2ea4812c914c2ac8fdf5fa407b1"
+      ],
+      "created_at": "2025-12-10T17:31:17.346269",
+      "closed_at": "2025-12-10T17:32:38.482733"
+    },
+    {
+      "case_id": "32d0fff1-502a-499f-aa65-ba4b88971531",
+      "status": "closed",
+      "alerts": [],
+      "created_at": "2025-12-10T17:34:15.759992",
+      "closed_at": "2025-12-10T17:43:38.888926"
+    },
+    {
+      "case_id": "4e510eaa-8fd1-4e66-a223-b90c7406c588",
+      "status": "closed",
+      "alerts": [],
+      "created_at": "2025-12-10T17:45:15.056308",
+      "closed_at": "2025-12-11T10:45:59.557694"
+    },
+    {
+      "case_id": "d5f406c9-f738-41dd-adb7-80d227fa29f3",
+      "status": "closed",
+      "alerts": [
+        "7a3138165e2b81ddac1059036a2e1339d271374a72933c10499f1f91149f7d61"
+      ],
+      "created_at": "2025-12-11T10:48:16.770637",
+      "closed_at": "2025-12-11T10:55:03.389552"
+    },
+    {
+      "case_id": "6daace5c-49c1-4294-be63-819806354ea9",
+      "status": "closed",
+      "alerts": [],
+      "created_at": "2025-12-11T12:05:15.554810",
+      "closed_at": "2025-12-11T12:08:55.838017"
+    },
+    {
+      "case_id": "d4c94d8d-089b-4063-ac22-559f32ee94e9",
+      "status": "closed",
+      "alerts": [
+        "1ae649a40694e1b45a675fc1e9bc15534037d7e8f782cd2b3c9f2942c001d405"
+      ],
+      "created_at": "2025-12-11T12:12:16.158651",
+      "closed_at": "2025-12-11T12:17:58.756715"
+    },
+    {
+      "case_id": "1e8e2655-92ae-478e-b027-69229665d38c",
+      "status": "closed",
+      "alerts": [],
+      "created_at": "2025-12-11T12:39:16.803791",
+      "closed_at": "2025-12-11T12:49:37.906663"
+    },
+    {
+      "case_id": "2786cfe9-2c72-4890-a000-be10b49d542d",
+      "status": "closed",
+      "alerts": [
+        "9de6b489348cd9a73d59c00b10b7c15fc9b5af09c8e7d83eafe97e3b219341f7",
+        "4f2c7aee99be955a6d91484d7a906919fadf39c78a150f8d528af164e346fd6d",
+        "ed0ea8b98c412bdc78974a0c7a43ca9878ff89173262f389a7a2c42034020d41",
+        "2569e7f43580f612dd530e47ec38d84468d5f341eadfdce929272ca55c92ca96",
+        "069be00dfc44b5a81c3035e3417c8b10a6c24ac2af092a15e1bf7f1e5aa2131a"
+      ],
+      "created_at": "2025-12-11T12:51:13.518350",
+      "closed_at": "2025-12-11T14:00:11.937076"
+    },
+    {
+      "case_id": "96711dee-5e98-4f37-9e39-085f031d9220",
+      "status": "closed",
+      "alerts": [
+        "a2a868938e697e518c5d9387762a77d119b72c85c391acea68a8820359774eb2",
+        "d3632f0bedc3672cc7b1c764e866759346b948c7e37d9106ba50595892c73a88"
+      ],
+      "created_at": "2025-12-11T14:19:15.424261",
+      "closed_at": "2025-12-11T14:40:31.856247"
+    },
+    {
+      "case_id": "c38fa31f-04dc-4a3e-b086-3676a9c92b22",
+      "status": "closed",
+      "alerts": [
+        "e926065e75f89080bc3c4f6a27484a867a9c27e512c349506917526cc2f3da69"
+      ],
+      "created_at": "2025-12-11T15:00:20.135261",
+      "closed_at": "2025-12-11T15:08:45.744892"
+    },
+    {
+      "case_id": "c8fbad91-24ed-4763-ac40-e6407c62b7be",
+      "status": "closed",
+      "alerts": [
+        "7ba72f54e4a176c4679ac027d356305c6b163ae0b06d4e19c20ed2835cbd7509",
+        "97c8b3744bd328f3b94bd1e0c0c1e63275d18437236c95dedda0329ae570d41c",
+        "b1669198082e0e8e009c4814ecc06c3a430e7d3405d2d8a839a5d0a1b88eb941",
+        "494bf78571276958a2c0dbb63affb01a603865598a087adca995ca6f85b5868d"
+      ],
+      "created_at": "2025-12-11T15:17:17.964062",
+      "closed_at": "2025-12-11T16:52:48.522968"
+    },
+    {
+      "case_id": "dec45c5e-d68a-492b-a1ab-d8fc401bd92b",
+      "status": "closed",
+      "alerts": [
+        "1c1c0cc2657b73c3d5e34a6f170ee04960a077531a6f499c9bf963eafd6f829f",
+        "14d3625aa4de7f8be99240cec7e2a019bdc12169929ecfcf148990b1b060b661"
+      ],
+      "created_at": "2025-12-11T16:56:18.969274",
+      "closed_at": "2025-12-12T10:12:27.056874"
+    },
+    {
+      "case_id": "3fd28a2f-40bc-440f-8fb3-5ce97e2b6a6a",
+      "status": "closed",
+      "alerts": [],
+      "created_at": "2025-12-12T10:22:35.009207",
+      "closed_at": "2025-12-12T10:23:01.048167"
+    },
+    {
+      "case_id": "867b3d5b-6f19-467f-be80-21821927c32d",
+      "status": "closed",
+      "alerts": [
+        "dc79a63735db33ab344d6a4cd10b9006eb3642c1c696d68124ee8b1d965c3315"
+      ],
+      "created_at": "2025-12-12T10:24:35.358568",
+      "closed_at": "2025-12-12T10:27:08.878317"
+    },
+    {
+      "case_id": "812916c2-6b5f-4d59-9136-85125f36b172",
+      "status": "closed",
+      "alerts": [
+        "4af30d7279f5a0f5189e0e54924f0d213cbcf5da21102ae19b18ff674fb648df"
+      ],
+      "created_at": "2025-12-14T05:21:10.640181",
+      "closed_at": "2025-12-14T05:43:07.063994"
+    },
+    {
+      "case_id": "c4659807-3609-4f43-b6a2-3966b8a4bbfb",
+      "status": "closed",
+      "alerts": [
+        "711f4d9c914689be24918a87ac937aea9112736e510539367d76009cfc4bfe1f"
+      ],
+      "created_at": "2025-12-14T06:55:09.034417",
+      "closed_at": "2025-12-14T06:57:14.255493"
+    },
+    {
+      "case_id": "91115432-790d-423b-97fd-c8ec073938e6",
+      "status": "closed",
+      "alerts": [
+        "e8ec566497a02eb50c0965eab21214bc5a9fa52df100cc2eeec86e4882efdf18",
+        "e58b32207fb2eaebbe17a41cda87736e14e1a9c573a61ed4b23639fbc627ad59",
+        "00a12362a61826b899f64039266142711a6b2b4697a49ea0d0ca5c338d18e8c0",
+        "c24d6541a83e196614916a973aaf1f091e683e885537d1933ada38406d06718a",
+        "dc60f54ec609c9e020264ff97c3892fb4eec05f9b700203111e5701a2f975217"
+      ],
+      "created_at": "2025-12-14T07:09:08.720033",
+      "closed_at": "2025-12-14T08:06:19.565133"
+    },
+    {
+      "case_id": "f1305a7b-8a1e-4c64-9488-c936c8c5294f",
+      "status": "closed",
+      "alerts": [
+        "63d7e4a6f4bfb4b547a32cc593e95fa2b12068e35526d5cb5baa4e0e9cefc0a0"
+      ],
+      "created_at": "2025-12-14T08:09:12.076467",
+      "closed_at": "2025-12-14T08:09:27.263433"
+    },
+    {
+      "case_id": "2fe58f4f-450e-4dc5-a781-8302dcd33c2d",
+      "status": "closed",
+      "alerts": [],
+      "created_at": "2025-12-14T08:11:10.985868",
+      "closed_at": "2025-12-14T08:11:33.022151"
+    },
+    {
+      "case_id": "9af85ff3-c304-4982-8199-590ad66dfcef",
+      "status": "closed",
+      "alerts": [
+        "04a342eaf0d3b2134e7b3817a4a1c49b0622c5ff1366593d2c1bd086c0a58a2c",
+        "2d5ef217e883c9a459dbc8ab68436c7571790e3a04d9cf6ccf594627f646e645"
+      ],
+      "created_at": "2025-12-14T08:18:08.844572",
+      "closed_at": "2025-12-14T08:24:27.102345"
+    },
+    {
+      "case_id": "f30b8cd0-4cc7-4d3d-ad24-846d15ee354e",
+      "status": "closed",
+      "alerts": [
+        "d4c5b71cb9ed8db7f6ccfb50cbb02fb5d61416dcc3f9198d977f9674f1704fb0"
+      ],
+      "created_at": "2025-12-14T08:26:09.429150",
+      "closed_at": "2025-12-14T08:26:51.507418"
+    },
+    {
+      "case_id": "0b2427cf-680c-4ffb-8955-3894453fd42f",
+      "status": "closed",
+      "alerts": [],
+      "created_at": "2025-12-14T08:28:08.694722",
+      "closed_at": "2025-12-14T08:29:31.875142"
+    },
+    {
+      "case_id": "34f419e6-c1b4-4c94-9cb9-2ebe4489a42e",
+      "status": "closed",
+      "alerts": [
+        "da4bf6cabcd3fc8b1ec3537a73df0fb5b4fa493a61ba814fed7c55b835a01546",
+        "6a911a55ae613ff03068b2f5f8c8257392b8fcccccfa343f6f3f7a9cebf1c67d"
+      ],
+      "created_at": "2025-12-14T08:31:09.093544",
+      "closed_at": "2025-12-14T08:59:59.632667"
+    },
+    {
+      "case_id": "1cbdb464-4002-47be-af5e-c1f0702e0ce2",
+      "status": "closed",
+      "alerts": [
+        "3b72213a38f17a6449711452902d712ad67e6dbeb0c8790b5059e92c61314248"
+      ],
+      "created_at": "2025-12-14T09:01:08.932808",
+      "closed_at": "2025-12-14T10:51:53.392868"
+    },
+    {
+      "case_id": "72853a3a-2efa-4888-ace9-5979f1e0a0b1",
+      "status": "closed",
+      "alerts": [],
+      "created_at": "2025-12-14T10:54:08.655160",
+      "closed_at": "2025-12-14T10:54:16.673525"
+    },
+    {
+      "case_id": "2d5f61b3-ed54-4243-8514-585d0ef37f93",
+      "status": "closed",
+      "alerts": [],
+      "created_at": "2025-12-14T11:10:08.461890",
+      "closed_at": "2025-12-14T11:10:19.512340"
+    },
+    {
+      "case_id": "538fe300-ad59-48ed-9237-b5c061379f06",
+      "status": "closed",
+      "alerts": [
+        "5405f7c35be271f167fbc08ce7f7a436ca8965674c0f09bd92cdf344fee85341"
+      ],
+      "created_at": "2025-12-14T11:22:09.304468",
+      "closed_at": "2025-12-14T11:36:43.611692"
+    },
+    {
+      "case_id": "010bafb2-2e30-4c46-b818-80f9e94ac746",
+      "status": "closed",
+      "alerts": [
+        "518d30a9a70978c48de7be3b774989ef2329da4fad9baa649ec7d9d677fd8542",
+        "628c7a46d361c2a6ee7b9860fe3e0fe593f9f98b700aa2b12e2b508b93216e82"
+      ],
+      "created_at": "2025-12-14T11:50:08.819047",
+      "closed_at": "2025-12-14T12:06:18.503882"
+    },
+    {
+      "case_id": "89e8e637-64c5-4903-8782-d79d9be0df0e",
+      "status": "closed",
+      "alerts": [
+        "51d4a09bac59c9586ad9ea12a1c040ace2258d6ff0d844b68d1ca27a3524b1a7",
+        "60dbab205be1d3657be6009d5d566c08199062a09044727e5367ea8a883d3251",
+        "3f18968866e806592b0681f9f5269d64d6bc917b2caac94dd04275be3d759e57",
+        "b7eb6149b69847110846ee4b7a8a9005a09b750e8d324744b7e7888d86fcf0b2"
+      ],
+      "created_at": "2025-12-14T12:32:09.943951",
+      "closed_at": "2025-12-15T10:19:30.439453"
+    },
+    {
+      "case_id": "eefb10c7-ebee-4e27-bd6c-9acb6e66ed8b",
+      "status": "closed",
+      "alerts": [],
+      "created_at": "2025-12-15T10:20:50.512116",
+      "closed_at": "2025-12-15T10:21:03.541727"
+    },
+    {
+      "case_id": "5dce403c-c3a2-43d6-b5c5-08662e8099fd",
+      "status": "closed",
+      "alerts": [
+        "7fa9b63a504ef1044e1fe0c7dcc7136e85683b64bd17d6880ed861277a3710c0"
+      ],
+      "created_at": "2025-12-15T10:25:51.890325",
+      "closed_at": "2025-12-15T10:28:13.141150"
+    },
+    {
+      "case_id": "07722b42-2478-4e05-bf74-347aa2a0d784",
+      "status": "closed",
+      "alerts": [],
+      "created_at": "2025-12-15T10:28:51.207696",
+      "closed_at": "2025-12-15T10:29:16.254469"
+    },
+    {
+      "case_id": "7559553d-0475-4bbb-9fdd-be4eff07df19",
+      "status": "closed",
+      "alerts": [
+        "ee7c6ce61ac61da5deed65f903e077ed09e2f8a10c500114cdee09318520d5af",
+        "d3faacc0f565fce35595ce60a991df31392d3ba9941da2d91fd0eb31820a2e74"
+      ],
+      "created_at": "2025-12-15T10:52:51.447211",
+      "closed_at": "2025-12-16T05:11:55.029281"
+    },
+    {
+      "case_id": "e28b73ec-e621-4cfe-99fa-0bb9178aa0d4",
+      "status": "closed",
+      "alerts": [],
+      "created_at": "2025-12-16T05:13:59.231799",
+      "closed_at": "2025-12-16T05:14:23.415669"
+    }
+  ],
+  "192.168.10.1": [
+    {
+      "case_id": "8694f96d-8582-4a37-9c12-a8eaf6aa168b",
+      "status": "closed",
+      "alerts": [
+        "8ae46c009cc9ea8201ed09922e7c5299b9f610cf296dc9efbbc142add7c76fe8",
+        "fe67771499001081ed5f7a61f39a5c8fc0fbb1e7146c8cc90926b77e35cfad86"
+      ],
+      "created_at": "2025-12-09T16:38:40.213088",
+      "closed_at": "2025-12-09T16:45:23.879654"
+    },
+    {
+      "case_id": "ca36ad34-07d8-44ef-a593-0e6ff7e6c37e",
+      "status": "closed",
+      "alerts": [
+        "954150985c61ac0bfd5e8241478429f130463b35e108044628da3415e52f9672"
+      ],
+      "created_at": "2025-12-10T09:04:27.709460",
+      "closed_at": "2025-12-10T10:14:54.576551"
+    }
+  ]
+}

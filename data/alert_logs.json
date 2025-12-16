@@ -1,0 +1,98 @@
+{
+  "271cee32aef98b0d025bcb3f9611e8577534154016ba986b89c09f436e09bdb3": {
+    "client_ip": "192.168.10.136",
+    "requests": [
+      {
+        "request_id": 1,
+        "uri": "/monitor_browser/collect/batch/?biz_id=2608",
+        "tags": [
+          "OWASP_CRS",
+          "OWASP_CRS/ATTACK-RCE",
+          "OWASP_CRS/ATTACK-RFI",
+          "anomaly-evaluation",
+          "application-multi",
+          "attack-rce",
+          "attack-rfi",
+          "capec/1000/152/175/253",
+          "capec/1000/152/248/88",
+          "language-multi",
+          "language-shell",
+          "paranoia-level/1",
+          "paranoia-level/2",
+          "platform-multi",
+          "platform-unix"
+        ],
+        "match": [
+          "Matched \"Operator `EndsWith' with parameter `.192.168.10.138' against variable `TX:rfi_parameter_ARGS:json.list.array_0.common.url' (Value: `.juejin.cn' )",
+          "Matched \"Operator `Rx' with parameter `(?i)(?:^|b[\\\"'\\)\\[\\x5c]*(?:(?:(?:\\|\\||&&)[\\s\\x0b]*)?\\$[!#\\(\\*\\-0-9\\?@_a-\\{]*)?\\x5c?u[\\\"'\\)\\[\\x5c]*(?:(?:(?:\\|\\||&&)[\\s\\x0b]*)?\\$[!#\\(\\*\\-0-9\\?@_a-\\{]*)?\\x5c?s[\\\"'\\)\\[\\x5c]*(?:(?:(?:\\|\\||&&)[\\s\\x0b]*)? (6224 characters omitted)' against variable `ARGS:json.list.array_0.payload.type' (Value: `perf' )",
+          "Matched \"Operator `Rx' with parameter `(?i)(?:^|b[\\\"'\\)\\[\\x5c]*(?:(?:(?:\\|\\||&&)[\\s\\x0b]*)?\\$[!#\\(\\*\\-0-9\\?@_a-\\{]*)?\\x5c?u[\\\"'\\)\\[\\x5c]*(?:(?:(?:\\|\\||&&)[\\s\\x0b]*)?\\$[!#\\(\\*\\-0-9\\?@_a-\\{]*)?\\x5c?s[\\\"'\\)\\[\\x5c]*(?:(?:(?:\\|\\||&&)[\\s\\x0b]*)? (11065 characters omitted)' against variable `ARGS:json.list.array_0.payload.type' (Value: `perf' )",
+          "Matched \"Operator `Ge' with parameter `5' against variable `TX:BLOCKING_INBOUND_ANOMALY_SCORE' (Value: `20' )"
+        ],
+        "request_headers": [
+          "Accept: */*",
+          "Accept-Encoding: gzip, deflate",
+          "Content-Type: application/json",
+          "Sec-Ch-Ua-Mobile: ?0",
+          "Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+          "Connection: close",
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+          "Sec-Fetch-Site: cross-site",
+          "Sec-Fetch-Dest: empty",
+          "Origin: https://juejin.cn",
+          "Sec-Ch-Ua: \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\"",
+          "Sec-Ch-Ua-Platform: \"Windows\"",
+          "Content-Length: 577",
+          "Referer: https://juejin.cn/",
+          "Sec-Fetch-Mode: cors",
+          "Host: 192.168.10.138"
+        ],
+        "request_body": "{\"ev_type\":\"batch\",\"list\":[{\"ev_type\":\"performance\",\"payload\":{\"name\":\"tti\",\"value\":1388,\"isSupport\":true,\"isPolyfill\":false,\"isBounced\":false,\"isCustom\":false,\"type\":\"perf\"},\"common\":{\"bid\":\"2608\",\"pid\":\"index\",\"view_id\":\"index_1688381441886\",\"user_id\":\"6922073775576761864\",\"device_id\":\"3e175914-aa5a-4f6e-ac9a-1c6cdbc38eef\",\"session_id\":\"9e872f7a-649c-4217-9741-b6a935d50124\",\"release\":\"1.0.0.7472\",\"env\":\"production\",\"url\":\"https://juejin.cn/\",\"timestamp\":1688381456242,\"sdk_version\":\"1.7.0\",\"sdk_name\":\"SDK_SLARDAR_WEB\",\"context\":{},\"network_type\":\"4g\",\"sample_rate\":1}}]}",
+        "rule_id": [
+          "931130",
+          "932260",
+          "932236",
+          "949110"
+        ],
+        "data": [
+          "Matched Data: https://juejin.cn found within TX:rfi_parameter_ARGS:json.list.array_0.common.url: .juejin.cn",
+          "Matched Data: perf found within ARGS:json.list.array_0.payload.type: perf",
+          "Matched Data: perf found within ARGS:json.list.array_0.payload.type: perf"
+        ]
+      },
+      {
+        "request_id": 3,
+        "uri": "/monitor_browser/collect/batch/?cmd=ls+ OR 1=1",
+        "tags": [],
+        "match": [
+          "Matched \"Operator `Eq' with parameter `0' against variable `REQBODY_ERROR' (Value: `1' )"
+        ],
+        "request_headers": [
+          "Accept: */*",
+          "Accept-Encoding: gzip, deflate",
+          "Content-Type: application/json",
+          "Sec-Ch-Ua-Mobile: ?0",
+          "Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+          "Connection: close",
+          "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+          "Sec-Fetch-Site: cross-site",
+          "Sec-Fetch-Dest: empty",
+          "Origin: https://juejin.cn",
+          "Sec-Ch-Ua: \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\"",
+          "Sec-Ch-Ua-Platform: \"Windows\"",
+          "Content-Length: 917",
+          "Referer: https://juejin.cn/",
+          "Sec-Fetch-Mode: cors",
+          "Host: 192.168.10.138"
+        ],
+        "request_body": "{\"ev_type\":\"batch\",\"list\":[{\"ev_type\":\"http\",\"payload\":{\"api\":\"fetch\",\"request\":{\"method\":\"get\",\"timestamp\":1688383239503,\"url\":\"https://api.juejin.cn/user_api/v1/user/get?aid=2608&uuid=6922073775576761864&spider=0&user_id=1442202996186093&not_self=1&need_badge=0\",\"headers\":{\"content-type\":\"application/json\"}},\"response\":{\"status\":200,\"is_custom_error\":false,\"timestamp\":1688383239774,\"headers\":{\"content-type\":\"application/json; charset=utf-8\",\"x-tt-logid\":\"20230703192036158542F56FAC274D3632\"}},\"duration\":271},\"common\":{\"bid\":\"2608\",\"pid\":\"index\",\"view_id\":\"index_1688381441886\",\"user_id\":\"6922073775576761864\",\"device_id\":\"3e175914-aa5a-4f6e-ac9a-1c6cdbc38eef\",\"session_id\":\"9e872f7a-649c-4217-9741-b6a935d50124\",\"release\":\"1.0.0.7472\",\"env\":\"production\",\"url\":\"https://juejin.cn/\",\"timestamp\":1688383239503,\"sdk_version\":\"1.7.0\",\"sdk_name\":\"SDK_SLARDAR_WEB\",\"context\":{},\"network_type\":\"4g\",\"sample_rate\":1}}])",
+        "rule_id": [
+          "200002"
+        ],
+        "data": [
+          "JSON parsing error: lexical error: invalid char in json text.\n"
+        ]
+      }
+    ],
+    "status": "FP"
+  }
+}
